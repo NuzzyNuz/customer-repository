@@ -1,0 +1,17 @@
+{
+    "name": "iyngaran/hrm-customer",
+    "description": "The customer module",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Iyathurai Iyngaran",
+            "email": "dev@iyngaran.info"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^6.0@dev"
+    }
+}
